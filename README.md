@@ -13,7 +13,7 @@ This project was developed at [ISEP](https://www.isep.ipp.pt).
 - **Door control** — relay/LED output held open for 6 seconds on successful authentication;
 - **Real-time software clock** — date and time maintained via Timer0 interrupt, displayed on the LCD between interactions;
 - **Access log** — up to 99 timestamped entries (user ID, date, time) browsable by the admin;
-- **Date/time setting** — admin can set year, month, day, hour, and minute via the keypad;
+- **Date/time setting** — admin can set year, month, day, hour and minute via the keypad;
 - **User management** — admin can add users or change passwords for any ID.
 
 ## Creators
